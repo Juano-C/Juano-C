@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Juano-C / Juan</h1>
+<h3 align="center">Learner, self-taught and content creator.</h3>
 
-<!--
-**Juano-C/Juano-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑🏼 My IRL name is Juan.
+- ⭐️ I'm 27 years old. (December, 27th).
+- 👾 I love development and games.
+- 🔭 Currently studying at the university for a bachelor's degree in systems.
+- 🌱 I am currently learning several languages.
+- 📫 How to reach me **chauvet.juann@gmail.com**
+- 🖥 [YouTube channel](https://youtube.com/@juanocgames)
 
-Here are some ideas to get you started:
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Juano-C&show_icons=true&locale=en&count_private=true&theme=radical" alt="Juano-C" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juano-C&theme=radical&layout=compact" alt="Juano-C" />
