@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Juano-C / Juan</h1>
+<h1 align="center">Hello World 👋, I'm Juano-C / Juan</h1>
 <h3 align="center">Learner, self-taught and content creator.</h3>
 
 - 🧑🏼 My IRL name is Juan.
