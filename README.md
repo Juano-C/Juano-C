@@ -11,4 +11,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Juano-C&show_icons=true&locale=en&count_private=true&theme=radical" alt="Juano-C" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juano-C&theme=radical" alt="Juano-C" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Juano-C&theme=radical&hide=shell" alt="Juano-C" />
