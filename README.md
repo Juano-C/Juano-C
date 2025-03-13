@@ -2,7 +2,7 @@
 <h3 align="center">Learner, self-taught and content creator.</h3>
 
 - 🧑🏼 My IRL name is Juan.
-- ⭐️ I'm 27 years old. (December, 27th).
+- ⭐️ I'm 28 years old. (December, 27th).
 - 👾 I love development and games.
 - 🔭 Currently studying at the university for a bachelor's degree in systems.
 - 🌱 I am currently learning several languages.
