@@ -6,8 +6,7 @@
 - 👾 I love development and games.
 - 🔭 Currently studying at the university for a bachelor's degree in systems.
 - 🌱 I am currently learning several languages.
-- 📫 How to reach me **Discord: juanoc**
-- 🖥 [YouTube channel](https://youtube.com/@juanocgames)
+- 📫 How to reach me **Discord: juanoc** (https://www.linkedin.com/in/chauvet-juann/)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Juano-C&show_icons=true&locale=en&count_private=true&theme=radical" alt="Juano-C" />
 
